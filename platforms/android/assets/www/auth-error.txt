@@ -1,0 +1,1854 @@
+--------- beginning of /dev/log/system
+E/Watchdog(  812): !@Sync 6336
+--------- beginning of /dev/log/main
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 159
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:8.600000 hotplug_avg_load_dw: 111
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:8.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:8.600000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:8.600000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/SurfaceWidgetReflection( 2037): [123491/1] failed to invoke method
+E/SurfaceWidgetReflection( 2037): java.lang.reflect.InvocationTargetException
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetReflection$MethodHelper.invoke(SurfaceWidgetReflection.java:315)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.destroyRootView(SurfaceWidgetClient.java:1189)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.setContentView(SurfaceWidgetClient.java:395)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget.setContentView(BriefingWidget.java:107)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingSurfaceWidgetRenderer4x2.updateWidgetScreen(BriefingSurfaceWidgetRenderer4x2.java:126)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget$1.run(BriefingWidget.java:145)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Looper.loop(Looper.java:157)
+E/SurfaceWidgetReflection( 2037): 	at android.app.ActivityThread.main(ActivityThread.java:5356)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1265)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+E/SurfaceWidgetReflection( 2037): 	at dalvik.system.NativeStart.main(Native Method)
+E/SurfaceWidgetReflection( 2037): Caused by: java.lang.NullPointerException
+E/SurfaceWidgetReflection( 2037): 	at android.view.ViewRootImpl.dispatchDetachedFromWindow(ViewRootImpl.java:3281)
+E/SurfaceWidgetReflection( 2037): 	... 17 more
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/CscReceiver(13296): onReceive android.intent.action.SIM_STATE_CHANGED
+E/CscFota (13296): CscFota update()
+E/CscParser(13296): update(): xml file exist
+E/CscFota (13296): no FOTA profiles in customer
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 196
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:245.000000
+E/SBrowserContentProviderUtility(26162): userSerialNumber >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 0
+E/OperatorBookmarksSIMReceiver(26162): onReceive runs..android.intent.action.SIM_STATE_CHANGED
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 186
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.500000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/chromium(26162): [ERROR:net_util.cc(1819)] Not implemented reached in net::IPv6SupportResult net::(anonymous namespace)::TestIPv6SupportInternal()
+E/chromium(26162): [ERROR:shell_integration_android.cc(12)] Not implemented reached in static ShellIntegration::DefaultWebClientSetPermission ShellIntegration::CanSetAsDefaultBrowser()
+E/chromium(26162): [ERROR:browser_process_impl.cc(713)] Not implemented reached in virtual BackgroundModeManager* BrowserProcessImpl::background_mode_manager()
+E/chromium(26162): [ERROR:chrome_browser_main_android.cc(130)] Not implemented reached in void RecordBreakpadStatusUMA(MetricsService*)
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 205
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 198
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 142
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 199
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.300000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 63
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 88
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.400000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.300000 hotplug_avg_load_dw: 90
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.300000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.300000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 157
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.800000 hotplug_avg_load_dw: 86
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.800000 seq:242.000000
+E/Watchdog(  812): !@Sync 6337
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 90
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.300000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 86
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:245.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.400000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.400000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.400000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/SurfaceWidgetReflection( 2037): [123491/1] failed to invoke method
+E/SurfaceWidgetReflection( 2037): java.lang.reflect.InvocationTargetException
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetReflection$MethodHelper.invoke(SurfaceWidgetReflection.java:315)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.destroyRootView(SurfaceWidgetClient.java:1189)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.setContentView(SurfaceWidgetClient.java:395)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget.setContentView(BriefingWidget.java:107)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingSurfaceWidgetRenderer4x2.updateWidgetScreen(BriefingSurfaceWidgetRenderer4x2.java:126)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget$1.run(BriefingWidget.java:145)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Looper.loop(Looper.java:157)
+E/SurfaceWidgetReflection( 2037): 	at android.app.ActivityThread.main(ActivityThread.java:5356)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1265)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+E/SurfaceWidgetReflection( 2037): 	at dalvik.system.NativeStart.main(Native Method)
+E/SurfaceWidgetReflection( 2037): Caused by: java.lang.NullPointerException
+E/SurfaceWidgetReflection( 2037): 	at android.view.ViewRootImpl.dispatchDetachedFromWindow(ViewRootImpl.java:3281)
+E/SurfaceWidgetReflection( 2037): 	... 17 more
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 117
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 67
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.900000 hotplug_avg_load_dw: 109
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 87
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:240.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 90
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 124
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 97
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 87
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.700000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 98
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:241.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 78
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:97.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:97.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 89
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/OpenGLRenderer(20945): SFEffectCache:clear(), mSize = 0
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 127
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.400000 hotplug_avg_load_dw: 154
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.400000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 74
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.400000 hotplug_avg_load_dw: 205
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.400000 seq:98.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 154
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 116
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.000000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 142
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:93.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 207
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/BadgeCache( 1629): 2. Do not updateBadgeCounts!!, multiple data for appIndex=2
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 134
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 128
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:136.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 72
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:241.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:96.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.500000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 149
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 101
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 83
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.400000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 85
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 86
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:6.500000 hotplug_avg_load_dw: 88
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.500000 seq:98.000000
+E/CscReceiver(13296): onReceive android.intent.action.SIM_STATE_CHANGED
+E/CscFota (13296): CscFota update()
+E/CscParser(13296): update(): xml file exist
+E/CscFota (13296): no FOTA profiles in customer
+E/OperatorBookmarksSIMReceiver(26162): onReceive runs..android.intent.action.SIM_STATE_CHANGED
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 139
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 156
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:95.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 86
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 73
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:9.900000 hotplug_avg_load_dw: 62
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:9.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:9.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:9.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 105
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:240.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 88
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 112
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/Watchdog(  812): !@Sync 6338
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 110
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.600000 hotplug_avg_load_dw: 189
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.600000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 205
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.600000 hotplug_avg_load_dw: 201
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.600000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 202
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.700000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 174
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.700000 seq:98.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/siva    (26913): OnTheGoService
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 210
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 143
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.200000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.200000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.200000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 189
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 100
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.900000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 97
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 132
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:7.900000 hotplug_avg_load_dw: 153
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.900000 seq:99.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.400000 hotplug_avg_load_dw: 174
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.400000 seq:245.000000
+E/chromium(26162): [ERROR:shell_integration_android.cc(30)] Not implemented reached in static ShellIntegration::DefaultWebClientState ShellIntegration::GetDefaultBrowser()
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 167
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 126
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:92.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 91
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 100
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 77
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.300000 hotplug_avg_load_dw: 13
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:9.300000 hotplug_avg_load_dw: 71
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:9.300000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:9.300000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:9.300000 seq:98.000000
+E/BluetoothHeadset(27020): BTStateChangeCB is registed
+E/BluetoothHeadset(27020): BluetoothHeadset service is binded
+E/VVM -- PreferenceData(27020): readPinFromFile length of the file zero
+E/VVM -- PreferenceData(27020): getPinFromFile - ENCRYPTED pin null
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[UNKNOWN], state: DISCONNECTED/DISCONNECTED, reason: (unspecified), extra: VZWINTERNET, roaming: false, failover: true, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[UNKNOWN], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[UNKNOWN], state: DISCONNECTED/DISCONNECTED, reason: (unspecified), extra: VZWINTERNET, roaming: false, failover: true, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[UNKNOWN], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 119
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.400000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 21
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:1.000000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 71
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/        (13296): File Open Failed
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 85
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:249.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:8.100000 hotplug_avg_load_dw: 104
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:8.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:8.100000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:8.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 91
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 58
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:242.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:12.700000 hotplug_avg_load_dw: 99
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:12.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:12.700000 seq:99.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:12.700000 seq:99.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:246.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:246.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 137
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.400000 hotplug_avg_load_dw: 202
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.400000 seq:98.000000
+E/WifiWatchdogStateMachine(  812): Unhandled message { when=0 what=135231 target=com.android.internal.util.StateMachine$SmHandler } in state QualityCheckingState
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 170
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:3.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 172
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 179
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:245.000000
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:9.700000 hotplug_avg_load_dw: 136
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:9.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:9.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:9.700000 seq:98.000000
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[LTE], state: DISCONNECTED/DISCONNECTED, reason: dataDisabled, extra: VZWINTERNET, roaming: false, failover: true, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[LTE], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[LTE], state: DISCONNECTED/DISCONNECTED, reason: dataDisabled, extra: VZWINTERNET, roaming: false, failover: true, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[LTE], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 102
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.900000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.900000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:97.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 177
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:96.000000
+E/QC-time-services(  352): Daemon: Time-services: Waiting to acceptconnection
+E/QC-time-services(27250): Receive Passed == base = 2, unit = 1, operation = 0, result = 0
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 93
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.900000 hotplug_avg_load_dw: 101
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 72
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:287.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:287.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 83
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 161
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 151
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 165
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.900000 seq:242.000000
+E/Crashlytics(27294): Settings response code in invalid: 502
+E/Watchdog(  812): !@Sync 6339
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 142
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 75
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.200000 hotplug_avg_load_dw: 95
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.200000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.200000 seq:98.000000
+E/SurfaceWidgetReflection( 2037): [123491/1] failed to invoke method
+E/SurfaceWidgetReflection( 2037): java.lang.reflect.InvocationTargetException
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetReflection$MethodHelper.invoke(SurfaceWidgetReflection.java:315)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.destroyRootView(SurfaceWidgetClient.java:1189)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.setContentView(SurfaceWidgetClient.java:395)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget.setContentView(BriefingWidget.java:107)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingSurfaceWidgetRenderer4x2.updateWidgetScreen(BriefingSurfaceWidgetRenderer4x2.java:126)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget$1.run(BriefingWidget.java:145)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Looper.loop(Looper.java:157)
+E/SurfaceWidgetReflection( 2037): 	at android.app.ActivityThread.main(ActivityThread.java:5356)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1265)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+E/SurfaceWidgetReflection( 2037): 	at dalvik.system.NativeStart.main(Native Method)
+E/SurfaceWidgetReflection( 2037): Caused by: java.lang.NullPointerException
+E/SurfaceWidgetReflection( 2037): 	at android.view.ViewRootImpl.dispatchDetachedFromWindow(ViewRootImpl.java:3281)
+E/SurfaceWidgetReflection( 2037): 	... 17 more
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 187
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 172
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 142
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 138
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:97.000000
+E/SPPClientService(11602): [[SystemStateMonitorService]] SystemStateMonitorService : noConnect? : false
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.200000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.200000 seq:245.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 132
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.800000 hotplug_avg_load_dw: 108
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.800000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.800000 seq:98.000000
+E/NEXPLAYER_JNI(27584): [nexplayer_jni 5140] cacheIds Ended
+E/NEXPLAYER_JNI(27584): getNexALFactoryContext 0x6DC1A350
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:0.500000 hotplug_avg_load_dw: 113
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 113
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 226
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.700000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.700000 hotplug_avg_load_dw: 183
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.700000 seq:98.000000
+E/ViewRootImpl(27054): sendUserActionEvent() mView == null
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 198
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.300000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:6.600000 hotplug_avg_load_dw: 170
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.600000 seq:98.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:3.000000 hotplug_avg_load_dw: 206
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:3.000000 seq:245.000000
+E/SPPClientService(11602): [[SystemStateMonitorService]] SystemStateMonitorService : noConnect? : false
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:6.300000 hotplug_avg_load_dw: 199
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.300000 seq:98.000000
+E/BadgeCache( 1629): 2. Do not updateBadgeCounts!!, multiple data for appIndex=2
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 193
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 213
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:98.000000
+E/kickstart(  990): EVENT: Received 48 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_HELLO
+E/kickstart(  990): EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+E/kickstart(  990): EVENT: sahara_mode                         = 2
+E/kickstart(  990): EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+E/kickstart(  990): EVENT: helloRx.mode                        = 2
+E/kickstart(  990): Wrote to /sys/power/wake_lock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 16 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 41506290, length 52
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 52 bytes
+E/kickstart(  990): EVENT: 0x46980000, len=000C0000, "m9kefs1", ""
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+E/kickstart(  990): EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 46980000, length 786432
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Received: 786432 bytes
+E/kickstart(  990): EVENT: Writing to disk
+E/kickstart(  990): EVENT: Successfully wrote to disk
+E/kickstart(  990): Received file "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+E/kickstart(  990): 786432 bytes transferred in 0.152s (4.94 MBps)
+E/kickstart(  990): EVENT: num_debug_entries not >=0
+E/kickstart(  990): Successfully downloaded files from target 
+E/kickstart(  990): EVENT: SENDING --> SAHARA_RESET
+E/kickstart(  990): Wrote to /sys/power/wake_unlock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 8 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_RESET_RESP
+E/kickstart(  990): Sahara protocol completed
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_HELLO
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 173
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 142
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.500000 seq:96.000000
+E/msgr(:<default>):c(17266): Did not receive an attachment_map. jsonNotification = {"type":"message","tid":"t_id.1429087974027257","thread_fbid":"1429087974027257","other_user_fbid":null,"mid":"m_mid.1405520297501:7b10bbd3645ca4b034","sender_fbid":1289433437,"sender_name":"Burak Sezer","offline_threading_id":"","body":"http://explorer.content.guardianapis.com/#/sections?q=main+section&api-key=mfqem2e9vt7hjhww88ce99vr","action_id":1405520297846000000,"prev_last_visible_action_id":1405460818408000000,"timestamp":1405520297375,"coordinates":null,"short_source":1,"api_tags":["inbox","source:chat"],"group_thread_info":{"participant_ids":[1289433437,100001927226808,605322509,642517307],"participant_names":["Burak","Wesley","Ari","Sam"],"participant_total_count":4,"name":"JBS","pic_hash":""},"share_map":{"2b842d169491d2b8c13e1e95edd10333":{"media":[],"name":"Content API Explorer","href":"http://explorer.content.guardianapis.com/#/sections?q=main+section&api-key=mfqem2e9vt7hjhww88ce99vr","caption":"explorer.content.guardianapis.com","description":"","properties":[],"fb_object_type":"","fb_object_id":"","fb_object_contents":[],"icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif","tagged_ids":[]}},"admin_snippet":"Burak Sezer sent an attachment.","has_attachment":true,"attachment_map":[],"z":"0","s":"0"}
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 168
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.400000 hotplug_avg_load_dw: 250
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.400000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.600000 hotplug_avg_load_dw: 199
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.600000 seq:95.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/fb4a(:<default>):PushDeserialization( 1822): Did not receive an attachment_map. jsonNotification = {"type":"message","tid":"t_id.1429087974027257","thread_fbid":"1429087974027257","other_user_fbid":null,"mid":"m_mid.1405520297501:7b10bbd3645ca4b034","sender_fbid":1289433437,"sender_name":"Burak Sezer","offline_threading_id":"","body":"http://explorer.content.guardianapis.com/#/sections?q=main+section&api-key=mfqem2e9vt7hjhww88ce99vr","action_id":1405520297846000000,"prev_last_visible_action_id":1405460818408000000,"timestamp":1405520297375,"coordinates":null,"short_source":1,"api_tags":["inbox","source:chat"],"group_thread_info":{"participant_ids":[1289433437,100001927226808,605322509,642517307],"participant_names":["Burak","Wesley","Ari","Sam"],"participant_total_count":4,"name":"JBS","pic_hash":""},"share_map":{"2b842d169491d2b8c13e1e95edd10333":{"media":[],"name":"Content API Explorer","href":"http://explorer.content.guardianapis.com/#/sections?q=main+section&api-key=mfqem2e9vt7hjhww88ce99vr","caption":"explorer.content.guardianapis.com","description":"","properties":[],"fb_object_type":"","fb_object_id":"","fb_object_contents":[],"icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif","tagged_ids":[]}},"admin_snippet":"Burak Sezer sent an attachment.","has_attachment":true,"attachment_map":[],"z":"0","s":"0"}
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ActivityThread(28776): Failed to find provider info for com.getpebble.android.provider
+E/ActivityThread(28776): Failed to find provider info for com.getpebble.android.provider
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 154
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:0.000000 seq:250.000000
+E/ActivityThread(17266): Failed to find provider info for com.facebook.wakizashi.provider.MessagesForegroundProvider
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ActivityThread( 1822): Failed to find provider info for com.facebook.wakizashi.provider.MessagesForegroundProvider
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 165
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.300000 hotplug_avg_load_dw: 115
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.300000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 146
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.500000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/SurfaceWidgetReflection( 2037): [123491/1] failed to invoke method
+E/SurfaceWidgetReflection( 2037): java.lang.reflect.InvocationTargetException
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetReflection$MethodHelper.invoke(SurfaceWidgetReflection.java:315)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.destroyRootView(SurfaceWidgetClient.java:1189)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.surfacewidget.SurfaceWidgetClient.setContentView(SurfaceWidgetClient.java:395)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget.setContentView(BriefingWidget.java:107)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingSurfaceWidgetRenderer4x2.updateWidgetScreen(BriefingSurfaceWidgetRenderer4x2.java:126)
+E/SurfaceWidgetReflection( 2037): 	at com.samsung.android.widgetapp.briefing4x2.BriefingWidget$1.run(BriefingWidget.java:145)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/SurfaceWidgetReflection( 2037): 	at android.os.Looper.loop(Looper.java:157)
+E/SurfaceWidgetReflection( 2037): 	at android.app.ActivityThread.main(ActivityThread.java:5356)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SurfaceWidgetReflection( 2037): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1265)
+E/SurfaceWidgetReflection( 2037): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+E/SurfaceWidgetReflection( 2037): 	at dalvik.system.NativeStart.main(Native Method)
+E/SurfaceWidgetReflection( 2037): Caused by: java.lang.NullPointerException
+E/SurfaceWidgetReflection( 2037): 	at android.view.ViewRootImpl.dispatchDetachedFromWindow(ViewRootImpl.java:3281)
+E/SurfaceWidgetReflection( 2037): 	... 17 more
+E/ActivityThread(17266): Failed to find provider info for com.facebook.wakizashi.provider.MessagesForegroundProvider
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/MediaPlayerService(  283): WFD client is not created 
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/ACDB-LOADER(  283): Error: ACDB AudProc vol returned = -8
+E/MediaPlayer(17266): Should have subtitle controller already set
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 132
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.500000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 98
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:285.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 89
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:244.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.900000 hotplug_avg_load_dw: 19
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.900000 seq:196.000000
+E/Watchdog(  812): !@Sync 6340
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:7.000000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.000000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.000000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.000000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:287.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:287.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 18
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.000000 hotplug_avg_load_dw: 31
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.000000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.000000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.000000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 119
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:288.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 65
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:286.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 106
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.400000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 109
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 101
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.000000 hotplug_avg_load_dw: 102
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.000000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.000000 seq:98.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 75
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.200000 hotplug_avg_load_dw: 24
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.200000 seq:343.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:5.000000 hotplug_avg_load_dw: 43
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.000000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.000000 seq:97.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 85
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 10
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:1.000000 seq:49.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 31
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 38
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.500000 hotplug_avg_load_dw: 9
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.500000 seq:239.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 31
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.300000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.300000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.300000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 76
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 10
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:191.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:191.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 28
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 6
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:0.000000 seq:284.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:284.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:13.400000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:13.400000 seq:195.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:13.400000 seq:146.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:13.400000 seq:146.000000
+E/kickstart(  990): EVENT: Received 48 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_HELLO
+E/kickstart(  990): EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+E/kickstart(  990): EVENT: sahara_mode                         = 2
+E/kickstart(  990): EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+E/kickstart(  990): EVENT: helloRx.mode                        = 2
+E/kickstart(  990): Wrote to /sys/power/wake_lock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 16 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 41506290, length 52
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 52 bytes
+E/kickstart(  990): EVENT: 0x46980000, len=000C0000, "m9kefs2", ""
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+E/kickstart(  990): EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs2"
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 46980000, length 786432
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 16384 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/kickstart(  990): EVENT: Received 131072 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 32768 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 65536 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 32768 bytes
+E/kickstart(  990): EVENT: Received: 786432 bytes
+E/kickstart(  990): EVENT: Writing to disk
+E/kickstart(  990): EVENT: Successfully wrote to disk
+E/kickstart(  990): Received file "/dev/block/platform/msm_sdcc.1/by-name/m9kefs2"
+E/kickstart(  990): 786432 bytes transferred in 0.109s (6.88 MBps)
+E/kickstart(  990): EVENT: num_debug_entries not >=0
+E/kickstart(  990): Successfully downloaded files from target 
+E/kickstart(  990): EVENT: SENDING --> SAHARA_RESET
+E/kickstart(  990): Wrote to /sys/power/wake_unlock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 8 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_RESET_RESP
+E/kickstart(  990): Sahara protocol completed
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_HELLO
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:8.500000 hotplug_avg_load_dw: 102
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:8.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:8.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:8.500000 seq:98.000000
+E/CscReceiver(13296): onReceive android.intent.action.SIM_STATE_CHANGED
+E/CscFota (13296): CscFota update()
+E/CscParser(13296): update(): xml file exist
+E/CscFota (13296): no FOTA profiles in customer
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 128
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:241.000000
+E/SBrowserContentProviderUtility(28462): userSerialNumber >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 0
+E/OperatorBookmarksSIMReceiver(28462): onReceive runs..android.intent.action.SIM_STATE_CHANGED
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:7.200000 hotplug_avg_load_dw: 140
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.200000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.200000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.200000 seq:98.000000
+E/chromium(28462): [ERROR:net_util.cc(1819)] Not implemented reached in net::IPv6SupportResult net::(anonymous namespace)::TestIPv6SupportInternal()
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 163
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.700000 seq:240.000000
+E/chromium(28462): [ERROR:shell_integration_android.cc(12)] Not implemented reached in static ShellIntegration::DefaultWebClientSetPermission ShellIntegration::CanSetAsDefaultBrowser()
+E/chromium(28462): [ERROR:browser_process_impl.cc(713)] Not implemented reached in virtual BackgroundModeManager* BrowserProcessImpl::background_mode_manager()
+E/chromium(28462): [ERROR:chrome_browser_main_android.cc(130)] Not implemented reached in void RecordBreakpadStatusUMA(MetricsService*)
+E/WifiWatchdogStateMachine(  812): Unhandled message { when=-1ms what=135231 target=com.android.internal.util.StateMachine$SmHandler } in state QualityCheckingState
+E/Watchdog(  812): !@Sync 6341
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 80
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:247.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 88
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 90
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.400000 seq:245.000000
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:12.300000 hotplug_avg_load_dw: 89
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:12.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:12.300000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:12.300000 seq:98.000000
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[LTE], state: DISCONNECTED/DISCONNECTED, reason: dataDisabled, extra: VZWINTERNET, roaming: false, failover: true, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[LTE], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[LTE], state: DISCONNECTED/DISCONNECTED, reason: dataDisabled, extra: VZWINTERNET, roaming: false, failover: true, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[LTE], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : true newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 158
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 138
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:99.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:99.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 126
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:6.900000 hotplug_avg_load_dw: 92
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 100
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:98.000000
+E/SPPClientService(11602): [[SystemStateMonitorService]] SystemStateMonitorService : noConnect? : false
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 189
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:96.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 147
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:245.000000
+E/NEXPLAYER_JNI(28750): [nexplayer_jni 5140] cacheIds Ended
+E/NEXPLAYER_JNI(28750): getNexALFactoryContext 0x6DC1A350
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 207
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.100000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:6.300000 hotplug_avg_load_dw: 140
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.300000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.300000 seq:98.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/SPPClientService(11602): [[SystemStateMonitorService]] SystemStateMonitorService : noConnect? : false
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 149
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 187
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:98.000000
+E/NEXPLAYER_JNI(29024): [nexplayer_jni 5140] cacheIds Ended
+E/NEXPLAYER_JNI(29024): getNexALFactoryContext 0x6DC1A350
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 76
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 124
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.200000 hotplug_avg_load_dw: 175
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.200000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.200000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.200000 seq:137.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 128
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 176
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 157
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.900000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 144
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.900000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.700000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.600000 hotplug_avg_load_dw: 196
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.600000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.600000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 169
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 153
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.000000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.000000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.000000 seq:97.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 212
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.300000 seq:98.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 100
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:99.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:99.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 85
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 101
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 140
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 82
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.900000 seq:245.000000
+E/Watchdog(  812): !@Sync 6342
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:5.300000 hotplug_avg_load_dw: 98
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.300000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:6.100000 hotplug_avg_load_dw: 134
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.100000 seq:99.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 89
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 208
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 73
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.200000 hotplug_avg_load_dw: 13
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.200000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:146.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 91
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:145.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:145.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:7.500000 hotplug_avg_load_dw: 44
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.500000 seq:95.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.500000 seq:95.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.500000 seq:95.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 72
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 31
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 119
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 25
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:536.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:2.200000 hotplug_avg_load_dw: 23
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.200000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 9
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:8.700000 hotplug_avg_load_dw: 60
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:8.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:8.700000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 75
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:246.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:588.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:6.800000 hotplug_avg_load_dw: 35
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.800000 seq:195.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.800000 seq:195.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.800000 seq:195.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 125
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:288.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 78
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.700000 hotplug_avg_load_dw: 33
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.700000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.700000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.700000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 72
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:288.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/Watchdog(  812): !@Sync 6343
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 17
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 24
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:1.900000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 20
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:294.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 43
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:190.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 68
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.700000 hotplug_avg_load_dw: 21
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.700000 seq:274.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:4.300000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.300000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.300000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 82
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.600000 hotplug_avg_load_dw: 14
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.600000 seq:49.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:5.300000 hotplug_avg_load_dw: 70
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.300000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:733.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:12.500000 hotplug_avg_load_dw: 29
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:12.500000 seq:245.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:12.500000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:12.500000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 121
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:288.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.400000 hotplug_avg_load_dw: 104
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.400000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.400000 seq:98.000000
+E/RecentsPanelView( 1288): package not found
+E/CscReceiver(13296): onReceive android.intent.action.SIM_STATE_CHANGED
+E/CscFota (13296): CscFota update()
+E/CscParser(13296): update(): xml file exist
+E/CscFota (13296): no FOTA profiles in customer
+E/SBrowserContentProviderUtility(29689): userSerialNumber >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 0
+E/OperatorBookmarksSIMReceiver(29689): onReceive runs..android.intent.action.SIM_STATE_CHANGED
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 151
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:3.100000 seq:245.000000
+E/chromium(29689): [ERROR:net_util.cc(1819)] Not implemented reached in net::IPv6SupportResult net::(anonymous namespace)::TestIPv6SupportInternal()
+E/chromium(29689): [ERROR:shell_integration_android.cc(12)] Not implemented reached in static ShellIntegration::DefaultWebClientSetPermission ShellIntegration::CanSetAsDefaultBrowser()
+E/chromium(29689): [ERROR:browser_process_impl.cc(713)] Not implemented reached in virtual BackgroundModeManager* BrowserProcessImpl::background_mode_manager()
+E/chromium(29689): [ERROR:chrome_browser_main_android.cc(130)] Not implemented reached in void RecordBreakpadStatusUMA(MetricsService*)
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 139
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 123
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 127
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 87
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:244.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 92
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 13
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.100000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.600000 hotplug_avg_load_dw: 16
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.600000 seq:192.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:1.900000 hotplug_avg_load_dw: 57
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:1.900000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.100000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 109
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:288.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 101
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 22
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:194.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:194.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 26
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 141
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:97.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 91
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 22
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:19.700001 hotplug_avg_load_dw: 35
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:19.700001 seq:195.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:19.700001 seq:195.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:19.700001 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 74
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:288.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:288.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/kickstart(  990): EVENT: Received 48 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_HELLO
+E/kickstart(  990): EVENT: SENDING --> SAHARA_HELLO_RESPONSE
+E/kickstart(  990): EVENT: sahara_mode                         = 2
+E/kickstart(  990): EVENT: m_comm->sahara_hello_packet_rx.mode = 2
+E/kickstart(  990): EVENT: helloRx.mode                        = 2
+E/kickstart(  990): Wrote to /sys/power/wake_lock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 16 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_MEMORY_DEBUG
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 41506290, length 52
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 52 bytes
+E/kickstart(  990): EVENT: 0x46980000, len=000C0000, "m9kefs1", ""
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_MEMORY_REGION
+E/kickstart(  990): EVENT: Saving "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+E/kickstart(  990): EVENT: SENDING --> SAHARA_MEMORY_READ
+E/kickstart(  990): EVENT: Sent SAHARA_MEMORY_READ, address 46980000, length 786432
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 81920 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 32768 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 49152 bytes
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 16384 bytes
+E/kickstart(  990): EVENT: Received: 786432 bytes
+E/kickstart(  990): EVENT: Writing to disk
+E/kickstart(  990): EVENT: Successfully wrote to disk
+E/kickstart(  990): Received file "/dev/block/platform/msm_sdcc.1/by-name/m9kefs1"
+E/kickstart(  990): 786432 bytes transferred in 0.116s (6.47 MBps)
+E/kickstart(  990): EVENT: num_debug_entries not >=0
+E/kickstart(  990): Successfully downloaded files from target 
+E/kickstart(  990): EVENT: SENDING --> SAHARA_RESET
+E/kickstart(  990): Wrote to /sys/power/wake_unlock
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/kickstart(  990): EVENT: Received 8 bytes
+E/kickstart(  990): EVENT: RECEIVED <-- SAHARA_RESET_RESP
+E/kickstart(  990): Sahara protocol completed
+E/kickstart(  990): EVENT: STATE <-- SAHARA_WAIT_HELLO
+E/kickstart(  990): EVENT: Waiting for data to read
+E/kickstart(  990): EVENT: Data available to read
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 22
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 32
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:195.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:195.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:195.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 32
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.500000 seq:288.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:288.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 19
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:194.000000
+E/Watchdog(  812): !@Sync 6344
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 42
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.500000 seq:98.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 105
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 104
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 108
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/AudioResampler(  283): Unsupported sample format, 1 bits, 2 channels
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:14.000000 hotplug_avg_load_dw: 77
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:14.000000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:14.000000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:14.000000 seq:98.000000
+E/ACDB-LOADER(  283): Error: ACDB AudProc vol returned = -8
+E/KeyguardHostView( 1288): KeyguardHostView()
+E/MISC PowerHAL(  812): sysfs_write : Error opening /sys/class/input/input3/enabled: No such file or directory
+E/MISC PowerHAL(  812): sysfs_write : Error opening /sys/class/input/input19/enabled: No such file or directory
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.500000 hotplug_avg_load_dw: 170
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.500000 seq:245.000000
+E/SoundPool( 1288): error loading /system/media/audio/ui/lens_flare_tap.ogg
+E/SoundPool( 1288): error loading /system/media/audio/ui/lens_flare_unlock.ogg
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:8.900000 hotplug_avg_load_dw: 155
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:8.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:8.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:8.900000 seq:98.000000
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/AwesomePlayer(  283): LPAPlayer::Clip duration setting of less than 30sec not supported, defaulting to 60sec
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 137
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:245.000000
+E/LightSensor(  812): Light old sensor_state 0, new sensor_state : 128 en : 1
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:9.900000 hotplug_avg_load_dw: 111
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:9.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:9.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:9.900000 seq:98.000000
+E/LightSensor(  812): Light old sensor_state 128, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 93
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.300000 seq:244.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 83
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.700000 seq:98.000000
+E/SamsungWindowManager(  812): mCoreNumLockHelper.acquire
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 79
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.400000 seq:245.000000
+E/MISC PowerHAL(  812): sysfs_write : Error opening /sys/class/input/input3/enabled: No such file or directory
+E/MISC PowerHAL(  812): sysfs_write : Error opening /sys/class/input/input19/enabled: No such file or directory
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerCacheData(  812): getContainerLockOnScreenLock: getting false
+E/ECS_EnterpriseContainerCacheData(  812): getContainerVerifyOnlyOnChangeMode: getting false
+E/NfcService( 1508): callback == null
+E/videowall-TranscodeReceiver(14544): broadcastMSG : android.intent.action.SCREEN_OFF
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:7.700000 hotplug_avg_load_dw: 109
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.700000 seq:98.000000
+E/videowall-TranscodeService(14544): duration time is 3 ==> not Live but Static thumbnail
+E/videowall-TranscodeService(14544): duration time is 1 ==> not Live but Static thumbnail
+E/videowall-TranscodeService(14544): duration time is 1 ==> not Live but Static thumbnail
+E/vwengine(14544): stopTranscoding
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 124
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.900000 seq:245.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.900000 hotplug_avg_load_dw: 93
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 100
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:2.900000 hotplug_avg_load_dw: 91
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:2.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 108
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 90
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:93.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 106
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.100000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.000000 hotplug_avg_load_dw: 92
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.000000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.000000 seq:94.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 83
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 74
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:98.000000
+E/LightSensor(  812): Light old sensor_state 0, new sensor_state : 128 en : 1
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:98.000000
+E/LightSensor(  812): Light old sensor_state 128, new sensor_state : 0 en : 0
+E/        (  296): SWETA :: Inside SecEDSVendorBase :: getStatus, nParam = 0
+E/        (  296): SWETA :: Inside SecEDSVendorBase :: getStatus, nParam = 1
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 84
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 73
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/GestureService( 1821): updateFlags started
+E/GestureService( 1821): bVertical = false
+E/GestureService( 1821): bHorizontal = false
+E/NfcService( 1508): callback == null
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.500000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 127
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.100000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 110
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 23
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:294.000000
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/chromium(29689): [ERROR:shell_integration_android.cc(30)] Not implemented reached in static ShellIntegration::DefaultWebClientState ShellIntegration::GetDefaultBrowser()
+E/Watchdog(  812): !@Sync 6345
+E/Sensors (  812): Acc old sensor_state 0, new sensor_state : 1 en : 1
+E/SecCameraShortcut( 1288): action down
+E/AudioResampler(  283): Unsupported sample format, 1 bits, 2 channels
+E/ACDB-LOADER(  283): Error: ACDB AudProc vol returned = -8
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:4.500000 hotplug_avg_load_dw: 25
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.500000 seq:96.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.500000 seq:96.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.500000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 144
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:285.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.100000 hotplug_avg_load_dw: 102
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.100000 seq:242.000000
+E/SecCameraShortcut( 1288): action up/cancel mDistance: 409.20654931220247
+E/AudioResampler(  283): Unsupported sample format, 1 bits, 2 channels
+E/AudioResampler(  283): Unsupported sample format, 1 bits, 2 channels
+E/AudioResampler(  283): Unsupported sample format, 1 bits, 2 channels
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 82
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:98.000000
+E/NfcService( 1508): callback == null
+E/MotionRecognitionService(  812):   mReceiver.onReceive : ACTION_USER_PRESENT  :: UNLOCK SCREEN
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:6.400000 hotplug_avg_load_dw: 166
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.400000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:6.400000 seq:96.000000
+E/Sensors (  812): Acc old sensor_state 1, new sensor_state : 0 en : 0
+E/TagForNotify(30093): [No cache] of Notify Toggle State
+E/TagForNotify(30093): setNotifyToggleStateList:: param stateLis is null OR size 0
+E/AcrossPromote(30093): [isTimeForShowAd]Not found match id of Across promote Ad
+E/MP-Decision( 2240): num online cores: 4 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 26
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 60
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:96.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:96.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.700000 hotplug_avg_load_dw: 27
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.700000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 16
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:197.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 40
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:146.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.400000 hotplug_avg_load_dw: 88
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.400000 seq:287.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.300000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.300000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 10
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 24
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:2.000000 seq:195.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 10
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:291.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:5.600000 hotplug_avg_load_dw: 45
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.600000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.600000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.600000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 35
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:0.000000 seq:286.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:0.000000 seq:286.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.600000 hotplug_avg_load_dw: 26
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.600000 seq:238.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:10.500000 hotplug_avg_load_dw: 35
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:10.500000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:10.500000 seq:147.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:10.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 98
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:246.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 75
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 15
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:196.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 4 available : 4 rq_depth:7.800000 hotplug_avg_load_dw: 32
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:7.800000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:7.800000 seq:196.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:7.800000 seq:147.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 2 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 144
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 1 available : 4 rq_depth:0.000000 hotplug_avg_load_dw: 15
+E/MP-Decision( 2240): DOWN cpu:1 core_idx:1 Ns:1.100000 Ts:190 rq:0.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 1 reqd : 3 available : 4 rq_depth:6.900000 hotplug_avg_load_dw: 30
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:6.900000 seq:145.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:6.900000 seq:145.000000
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:11.300000 hotplug_avg_load_dw: 211
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:11.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:11.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:11.300000 seq:93.000000
+E/Watchdog(  812): !@Sync 6346
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/SPPClientService(11602): [e] Push Channel Exception : java.net.SocketException: recvfrom failed: ETIMEDOUT (Connection timed out)
+E/SPPClientService(11602): [e] exceptionCaught(). NET_TIMEOUT
+E/SPPClientService(11602): [e] exceptionCaught(). if case. But because of NoActive signal. ignore.
+E/SPPClientService(11602): [b] handleError->resultCode: INITIALIZATION_FAIL(-104)
+E/SPPClientService(11602): [b] SharedConstants.WHAT_PUSH_NETWORK_NOT_AVAILABLE
+E/SPPClientService(11602): [b] [PushNetlistenerList is empty
+E/SPPClientService(11602): [a] [ConnectionManager] Connection is already disconnected.
+E/SPPClientService(11602): [b] [ReInit] Retry Count : 0
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus while loop
+E/ECS_--key--1 = (  812): ----
+E/ECS_EnterpriseContainerCacheData(  812): getContainerStatus of: 1 status: 6--flag--true
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/VVM_ConnectionManager(27020): netinfo mobile: NetworkInfo: type: mobile[UNKNOWN], state: DISCONNECTED/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: true, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): netinfo hipri: NetworkInfo: type: mobile_hipri[UNKNOWN], state: UNKNOWN/IDLE, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: false, isConnectedToProvisioningNetwork: false
+E/VVM_ConnectionManager(27020): mIsWifiNetworkOn : false newState: no_data doBringUpNetwork: false currentState: VVM-MOBILE-STOPPED
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.600000 hotplug_avg_load_dw: 152
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.600000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 82
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.900000 hotplug_avg_load_dw: 96
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.900000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.600000 hotplug_avg_load_dw: 157
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.600000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 114
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.300000 hotplug_avg_load_dw: 89
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.300000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.300000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 104
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:4.700000 hotplug_avg_load_dw: 97
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:4.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:4.700000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:4.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 122
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 75
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:242.000000
+E/SupplicantStateTracker(  812): [AUTHENTICATION_FAILURE_EVENT] networkId : 7, count : 1 [EAP]
+E/MP-Decision( 2240): num online cores: 2 reqd : 3 available : 4 rq_depth:3.100000 hotplug_avg_load_dw: 94
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.100000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 77
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:5.900000 hotplug_avg_load_dw: 97
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.900000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.900000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.900000 seq:98.000000
+E/X-GOOGLE-TOKEN(27956): auth io problem
+E/X-GOOGLE-TOKEN(27956): java.io.IOException: NetworkError
+E/X-GOOGLE-TOKEN(27956): 	at android.accounts.AccountManager.convertErrorToException(AccountManager.java:1722)
+E/X-GOOGLE-TOKEN(27956): 	at android.accounts.AccountManager.access$400(AccountManager.java:145)
+E/X-GOOGLE-TOKEN(27956): 	at android.accounts.AccountManager$AmsTask$Response.onError(AccountManager.java:1583)
+E/X-GOOGLE-TOKEN(27956): 	at android.accounts.IAccountManagerResponse$Stub.onTransact(IAccountManagerResponse.java:69)
+E/X-GOOGLE-TOKEN(27956): 	at android.os.Binder.execTransact(Binder.java:404)
+E/X-GOOGLE-TOKEN(27956): 	at dalvik.system.NativeStart.run(Native Method)
+E/SPPClientService(11602): [[SystemStateMonitorService]] SystemStateMonitorService : noConnect? : true
+E/SPPClientService(11602): [[SystemStateMonitorService]] No Active Internet
+E/SPPClientService(11602): [a] [ConnectionManager] Connection is already disconnected.
+E/SPPClientService(11602): [a] [ConnectionManager] Connection is already disconnected.
+E/SPPClientService(11602): [[PushClientService]] <<--- PushClientService.deInitPushClientService -------END  --->>
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 85
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:1.000000 seq:245.000000
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.000000 hotplug_avg_load_dw: 83
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.000000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 78
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:97.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.700000 seq:97.000000
+E/NEXPLAYER_JNI(30501): [nexplayer_jni 5140] cacheIds Ended
+E/NEXPLAYER_JNI(30501): getNexALFactoryContext 0x6DC1A350
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 139
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.100000 seq:246.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:2.100000 hotplug_avg_load_dw: 136
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:2.100000 seq:241.000000
+E/MP-Decision( 2240): num online cores: 2 reqd : 4 available : 4 rq_depth:3.500000 hotplug_avg_load_dw: 140
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.500000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.500000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 156
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:240.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:5.100000 hotplug_avg_load_dw: 172
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:5.100000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:5.100000 seq:98.000000
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/GoogleConversionPing(30546): Error sending ping
+E/ECS_EnterpriseContainerService(  812): getMountStatus() permission get it
+E/cutils  (  256): Failed to mkdirat(/storage/extSdCard/Android): Read-only file system
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.000000 hotplug_avg_load_dw: 208
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.000000 seq:245.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 4 available : 4 rq_depth:3.700000 hotplug_avg_load_dw: 188
+E/MP-Decision( 2240): UP cpu:1 core_idx:1 Nw:1.900000 Tw:140 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:2 core_idx:2 Nw:2.700000 Tw:90 rq:3.700000 seq:0.000000
+E/MP-Decision( 2240): UP cpu:3 core_idx:3 Nw:3.500000 Tw:90 rq:3.700000 seq:98.000000
+E/MP-Decision( 2240): num online cores: 4 reqd : 3 available : 4 rq_depth:2.700000 hotplug_avg_load_dw: 171
+E/MP-Decision( 2240): DOWN cpu:3 core_idx:3 Ns:3.100000 Ts:240 rq:2.700000 seq:243.000000
+E/MP-Decision( 2240): num online cores: 3 reqd : 2 available : 4 rq_depth:1.500000 hotplug_avg_load_dw: 76
+E/MP-Decision( 2240): DOWN cpu:2 core_idx:2 Ns:2.100000 Ts:240 rq:1.500000 seq:245.000000

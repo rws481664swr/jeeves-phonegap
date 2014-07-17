@@ -36,8 +36,8 @@
 	<script src="js/loadfeeds.js"></script>
 	
 	<!-- SPEECH SCRIPT -->
-	<script src="js/reco.js"></script>
 	<script src="node_modules/utf8/utf8.js"></script>
+	        <script type="text/javascript" src="cordova.js"></script>
 
 	
 
@@ -212,11 +212,12 @@
 			<div>
 				<h2>Speech</h2>
 				Speech function will go here
-				<button ng-click="sp.reco()" class="btn btn-default btn-block">Touch To Talk</button> 		
+				<button ng-click="reco()" class="btn btn-default btn-block">Touch To Talk</button> 		
 				<button ng-click="changeView('help')" class="btn btn-default btn-block">Help</button> 
 				<button ng-click="changeView('back')" class="btn btn-default btn-block">Go Back</button>
 			</div>
 		</div>
+			<script src="js/reco.js"></script>
 
 		<div id="buttom-button" class="view" >
 			<br>
